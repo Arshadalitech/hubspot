@@ -105,6 +105,9 @@
   font-weight: 600;
   color: #015FA3;
 }
+.box-icon .img-fluid{
+  max-width: 150px;
+}
 
 @media (max-width: 576px) {
   .box-card {
